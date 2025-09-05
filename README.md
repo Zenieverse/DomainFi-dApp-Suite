@@ -1,6 +1,7 @@
 # DomainFi-dApp-Suite
 https://poe.com/DomainFidAppSuite
 <img width="1983" height="1318" alt="IMG_1265" src="https://github.com/user-attachments/assets/9291a53a-0e22-4b83-b19f-ea42b75d73ee" />
+<img width="1930" height="548" alt="IMG_1267" src="https://github.com/user-attachments/assets/522fc83b-8f8a-484e-8755-15a622313307" />
 
 Why This Suite Matters
 DomaAuctionX → solves expiring domain transparency.
