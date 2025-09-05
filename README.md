@@ -1,4 +1,6 @@
 # DomainFi-dApp-Suite
+![Uploading IMG_1264.png…]()
+
 Why This Suite Matters
 DomaAuctionX → solves expiring domain transparency.
 DomaDutchX → boosts engagement & participation.
